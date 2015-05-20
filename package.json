@@ -1,0 +1,24 @@
+{
+  "name": "app-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcsoundchicks/app-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcsoundchicks/app-data/issues"
+  },
+  "homepage": "https://github.com/dcsoundchicks/app-data",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "queue-async": "^1.0.7",
+    "request": "^2.55.0"
+  }
+}
