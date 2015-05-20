@@ -1,8 +1,8 @@
 {
   "name": "app-data",
   "version": "1.0.0",
-  "description": "",
-  "main": "trial.js",
+  "description": "series of node scrapers for collecting venue show data for the dcsoundcheck app",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
