@@ -1,17 +1,10 @@
-// module.exports.venues = require('./venues');
-
-// module.exports.sourceMap = sourceMap = {};
-
-// module.exports.venues.features.forEach(function(feat) {
-//   sourceMap[feat.properties.id] = feat;
-//   console.log(feat);
-// });
+#!/usr/bin/env node
 
 var queue = require('queue-async'),
     flatten = require('lodash.flatten');
 
 var venues = [
-    require('./venues/dc9.js'),
+    require('../venues/dc9.js'),
 ];
 
 var q = queue(1);
