@@ -1,0 +1,1958 @@
+[
+  {
+    "times": [
+      {
+        "label": "Night Kitchen",
+        "formatted": "10:00pm",
+        "stamp": 1436997600000
+      },
+      {
+        "label": "Seaknuckle",
+        "formatted": "9:15pm",
+        "stamp": 1436994900000
+      },
+      {
+        "label": "Heavy Lights",
+        "formatted": "8:30pm",
+        "stamp": 1436992200000
+      },
+      {
+        "label": "Show",
+        "formatted": "8:30pm",
+        "stamp": 1436992200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:00pm",
+        "stamp": 1436990400000
+      }
+    ],
+    "title": "Night Kitchen",
+    "prices": [
+      {
+        "price": 8,
+        "type": "door"
+      }
+    ],
+    "date": "WED JUL 15",
+    "minage": 0,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/15/night-kitchen/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "7:30pm",
+        "stamp": 1437075000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "7:00pm",
+        "stamp": 1437073200000
+      }
+    ],
+    "title": "Body Thief",
+    "prices": [
+      {
+        "price": 8,
+        "type": "door"
+      }
+    ],
+    "date": "THU JUL 16",
+    "minage": 0,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/15/body-thief/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "7:00pm",
+        "stamp": 1437159600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "6:30pm",
+        "stamp": 1437157800000
+      }
+    ],
+    "title": "The Weather Station [EARLY SHOW]",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 10,
+        "type": "door"
+      }
+    ],
+    "date": "FRI JUL 17",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/848651?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/tlpsrTp3h2w",
+      "https://www.youtube.com/embed/GeQU4cMaKoY"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/01/the-weather-station/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "10:30pm",
+        "stamp": 1437172200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "10:00pm",
+        "stamp": 1437170400000
+      }
+    ],
+    "title": "DISCNOTHÈQUE (late event)",
+    "prices": [
+      {
+        "price": 2,
+        "type": "unknown"
+      }
+    ],
+    "date": "FRI JUL 17",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/10/discnotheque7-17-15/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "10:30pm",
+        "stamp": 1437258600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "10:30pm",
+        "stamp": 1437258600000
+      }
+    ],
+    "title": "Peach Pit",
+    "prices": [
+      {
+        "price": 5,
+        "type": "unknown"
+      }
+    ],
+    "date": "SAT JUL 18",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/04/14/peach-pit/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "3PM - 7PM",
+        "stamp": 1437318420000
+      },
+      {
+        "label": "Doors",
+        "formatted": "2PM",
+        "stamp": 1437314400000
+      }
+    ],
+    "title": "Throwing Back Sunday",
+    "prices": [
+      {
+        "price": 0,
+        "type": "any"
+      }
+    ],
+    "date": "SUN JUL 19",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/21/throwing-back-sunday7-21-15/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1437512400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1437510600000
+      }
+    ],
+    "title": "The Answer",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "TUE JUL 21",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/818345?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/5aT6iuYaNtg"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/03/24/the-answer/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:00pm",
+        "stamp": 1437595200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "7:30pm",
+        "stamp": 1437593400000
+      }
+    ],
+    "title": "Planes Mistaken For Stars",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "WED JUL 22",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/843313?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/hlrhXykCyZc",
+      "https://www.youtube.com/embed/Yk4SF7zoOm8",
+      "https://www.youtube.com/embed/NcJ8JW3Gs-E",
+      "https://www.youtube.com/embed/mctPId26wS8"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/04/24/planes-mistaken-for-stars/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:30pm",
+        "stamp": 1437683400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:00pm",
+        "stamp": 1437681600000
+      }
+    ],
+    "title": "Skylar Spence (formally known as Saint Pepsi)",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "THU JUL 23",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/874367?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/aed4G0cQCNQ"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/31531137&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true",
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/1330718&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true",
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/202864559&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/04/skylar-spence/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "10:30pm",
+        "stamp": 1437777000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "10:00pm",
+        "stamp": 1437775200000
+      }
+    ],
+    "title": "DISCNOTHÈQUE",
+    "prices": [
+      {
+        "price": 2,
+        "type": "unknown"
+      }
+    ],
+    "date": "FRI JUL 24",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/10/discnotheque7-24-15/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:00pm",
+        "stamp": 1437854400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "7:30pm",
+        "stamp": 1437852600000
+      }
+    ],
+    "title": "Rocky Votolato (+ full band) & Dave Hause",
+    "prices": [
+      {
+        "price": 14,
+        "type": "advance"
+      },
+      {
+        "price": 14,
+        "type": "door"
+      }
+    ],
+    "date": "SAT JUL 25",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/844341?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/zK-uvdNPjtw",
+      "https://www.youtube.com/embed/-XSJDxxtgME"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/04/27/rocky-votolato-full-band-dave-hause/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1437944400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1437942600000
+      }
+    ],
+    "title": "Memory Tapes",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "SUN JUL 26",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/818275?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/XpOH2lWFEl8"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/189331024&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true",
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/758211&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/03/24/memory-tapes/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:00pm",
+        "stamp": 1437940800000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:00pm",
+        "stamp": 1437940800000
+      }
+    ],
+    "title": "indie rock KARAOKE",
+    "prices": [
+      {
+        "price": 0,
+        "type": "any"
+      }
+    ],
+    "date": "SUN JUL 26",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [
+      "https://www.youtube.com/embed/miIqL3CBpn0"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/15/indie-rock-karaoke/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:30pm",
+        "stamp": 1438029000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:00pm",
+        "stamp": 1438027200000
+      }
+    ],
+    "title": "MARRIAGES",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 14,
+        "type": "door"
+      }
+    ],
+    "date": "MON JUL 27",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/877359?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/f2iKoKOldfQ"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/08/marriages/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:00pm",
+        "stamp": 1438113600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "7:30pm",
+        "stamp": 1438111800000
+      }
+    ],
+    "title": "SAND",
+    "prices": [
+      {
+        "price": 8,
+        "type": "door"
+      }
+    ],
+    "date": "TUE JUL 28",
+    "minage": 0,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/13/sand/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1436443200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1436421600000
+      }
+    ],
+    "title": "Dawn of Midi (CANCELLED)",
+    "prices": [
+      {
+        "price": "CANCELLED",
+        "type": "unknown"
+      }
+    ],
+    "date": "CANCELLED",
+    "minage": 0,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/04/dawn-of-midi/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "7:00pm",
+        "stamp": 1438282800000
+      },
+      {
+        "label": "Doors",
+        "formatted": "6:00pm",
+        "stamp": 1438279200000
+      }
+    ],
+    "title": "School Of Rock All Stars",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 10,
+        "type": "door"
+      }
+    ],
+    "date": "THU JUL 30",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/882657?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/15/school-of-rock-all-stars-2/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "6:30pm",
+        "stamp": 1438367400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "6:00pm",
+        "stamp": 1438365600000
+      }
+    ],
+    "title": "Lazyeyes [EARLY SHOW]",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 10,
+        "type": "door"
+      }
+    ],
+    "date": "FRI JUL 31",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/869379?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/JxcDSfGljxE"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/16615657&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/29/lazyeyes/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "10:30pm",
+        "stamp": 1438381800000
+      },
+      {
+        "label": "Doors",
+        "formatted": "10:00pm",
+        "stamp": 1438380000000
+      }
+    ],
+    "title": "DISCNOTHÈQUE (late event)",
+    "prices": [
+      {
+        "price": 2,
+        "type": "unknown"
+      }
+    ],
+    "date": "FRI JUL 31",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/10/discnotheque7-31-15/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:30pm",
+        "stamp": 1438464600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "9:00pm",
+        "stamp": 1438462800000
+      }
+    ],
+    "title": "Loud Boyz",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 10,
+        "type": "door"
+      }
+    ],
+    "date": "SAT AUG 1",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/897607?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/Yhx6IIU8xrk"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/94583166&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/02/loud-boyz/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1438549200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1438547400000
+      }
+    ],
+    "title": "Quincy Mumford & The Reason Why",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 10,
+        "type": "door"
+      }
+    ],
+    "date": "SUN AUG 2",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/882709?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/15/quincy-mumford-the-reason-why/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1438635600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1438633800000
+      }
+    ],
+    "title": "The Velvet Teen",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 10,
+        "type": "door"
+      }
+    ],
+    "date": "MON AUG 3",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/888297?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/22/the-velvet-teen/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1438894800000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1438893000000
+      }
+    ],
+    "title": "Ezra Furman",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "THU AUG 6",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/858883?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/NDOenFQazrA"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/14/ezra-furman/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "6:30pm",
+        "stamp": 1438972200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "6:00pm",
+        "stamp": 1438970400000
+      }
+    ],
+    "title": "Howard [EARLY SHOW]",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 10,
+        "type": "door"
+      }
+    ],
+    "date": "FRI AUG 7",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/889103?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/w5VtLB6NcXk"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/3580542&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/23/howard-early-show/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "10:30pm",
+        "stamp": 1438986600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "10:00pm",
+        "stamp": 1438984800000
+      }
+    ],
+    "title": "DISCNOTHÈQUE (late event)",
+    "prices": [
+      {
+        "price": 2,
+        "type": "unknown"
+      }
+    ],
+    "date": "FRI AUG 7",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/10/discnotheque-late-event/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1439067600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:00pm",
+        "stamp": 1439064000000
+      }
+    ],
+    "title": "Matthew E. White",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "SAT AUG 8",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/853017?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/07/matthew-e-white/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:00pm",
+        "stamp": 1439236800000
+      },
+      {
+        "label": "Doors",
+        "formatted": "7:30pm",
+        "stamp": 1439235000000
+      }
+    ],
+    "title": "Beach Slang",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "MON AUG 10",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/880411?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/bMarSr1819g"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/11/beach-slang/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1439413200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1439411400000
+      }
+    ],
+    "title": "The Lonely Biscuits",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "WED AUG 12",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/858825?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/b7_PC8m3CN8"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/14/the-lonely-biscuits/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:30pm",
+        "stamp": 1439497800000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:00pm",
+        "stamp": 1439496000000
+      }
+    ],
+    "title": "Brick + Mortar",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "THU AUG 13",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/868419?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/bfrPU0Gk5r0"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/28/brick-mortar-2/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1439672400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "9:00pm",
+        "stamp": 1439672400000
+      }
+    ],
+    "title": "Poseurs : 32nd Anual Reunion",
+    "prices": [
+      {
+        "price": 12,
+        "type": "unknown"
+      }
+    ],
+    "date": "SAT AUG 15",
+    "minage": 21,
+    "tickets": "https://www.ticketfly.com/purchase/event/854131?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/08/poseurs-32nd-anual-reunion/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1439758800000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1439757000000
+      }
+    ],
+    "title": "NE-HI",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 10,
+        "type": "door"
+      }
+    ],
+    "date": "SUN AUG 16",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/852085?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/4KzQPAmgWl4"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/06/ne-hi/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1440104400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1440102600000
+      }
+    ],
+    "title": "Adia Victoria",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "THU AUG 20",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/860907?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/U2_Cw_srptw"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/18/adia-victoria/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:00pm",
+        "stamp": 1440360000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "7:00pm",
+        "stamp": 1440356400000
+      }
+    ],
+    "title": "John Nolan of Taking Back Sunday",
+    "prices": [
+      {
+        "price": 15,
+        "type": "unknown"
+      }
+    ],
+    "date": "SUN AUG 23",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/857819?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/13/john-nolan-of-taking-back-sunday/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1440709200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1440707400000
+      }
+    ],
+    "title": "The Delta Saints",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "THU AUG 27",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/877979?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/yMXIEV-d95Q"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/09/the-delta-saints/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1441141200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1441139400000
+      }
+    ],
+    "title": "Arum Rae w/ Steve West",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "TUE SEP 1",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/895485?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/dHn_e7ye4CQ"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/28280515&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/30/arum-rae/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1441832400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1441830600000
+      }
+    ],
+    "title": "Jenny Hval",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "WED SEP 9",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/852029?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/oGksHxwnap0"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/1919097&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/05/06/jenny-hval-2/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:30pm",
+        "stamp": 1441917000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:00pm",
+        "stamp": 1441915200000
+      }
+    ],
+    "title": "Sheer Mag AND Downtown Boys",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "THU SEP 10",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/895253?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/Pr2um9KXkgQ",
+      "https://www.youtube.com/embed/lt_qvNnwQzA"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/30/sheer-mag-and-downtown-boys/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1442178000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1442176200000
+      }
+    ],
+    "title": "Nick Diamonds",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "SUN SEPT 13",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/906029?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/zi4RgOszst0"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/13/nick-diamonds/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1442264400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1442262600000
+      }
+    ],
+    "title": "Crooks On Tape",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 10,
+        "type": "door"
+      }
+    ],
+    "date": "MON SEP 14",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/894157?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/u5eZ5Lki93I"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/29/crooks-on-tape/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:30pm",
+        "stamp": 1442349000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:00pm",
+        "stamp": 1442347200000
+      }
+    ],
+    "title": "ON AND ON",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 14,
+        "type": "door"
+      }
+    ],
+    "date": "TUE SEP 15",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/882645?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/sm3p4vHT-7s"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/15/on-and-on/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1442955600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1442953800000
+      }
+    ],
+    "title": "The Bellfuries",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "TUES SEPT 22",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/907571?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/4rX-TpxMwCg"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/15/the-bellfuries/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1443042000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1443040200000
+      }
+    ],
+    "title": "Farao",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "WED SEP 23",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/888221?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/McRRUW5Jj04"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/22/farao/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1443128400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1443126600000
+      }
+    ],
+    "title": "Truly",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 13,
+        "type": "door"
+      }
+    ],
+    "date": "THUR SEPT 24",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/906477?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/arwW0bWIXUI"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/14/truly/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "7:00pm",
+        "stamp": 1443207600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "6:30pm",
+        "stamp": 1443205800000
+      }
+    ],
+    "title": "Phil Cook [EARLY SHOW]",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "FRI SEP 25",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/877993?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/41354682&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/09/phil-cook/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1443301200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:00pm",
+        "stamp": 1443297600000
+      }
+    ],
+    "title": "Steve’n’Seagulls",
+    "prices": [
+      {
+        "price": 14,
+        "type": "advance"
+      },
+      {
+        "price": 14,
+        "type": "door"
+      }
+    ],
+    "date": "SAT SEP 26",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/892803?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/e4Ao-iNPPUc"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/29/stevenseagulls/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1443733200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1443731400000
+      }
+    ],
+    "title": "Reigning Sound",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 14,
+        "type": "door"
+      }
+    ],
+    "date": "THU OCT 1",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/889075?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/vvWo7ThiE0w"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/23/reigning-sound/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:00pm",
+        "stamp": 1443902400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "7:00pm",
+        "stamp": 1443898800000
+      }
+    ],
+    "title": "Maritime",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "SAT OCT 3",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/878015?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/ZVWtl1xfHs0"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/1525349&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/09/maritime/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:30pm",
+        "stamp": 1444077000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "7:30pm",
+        "stamp": 1444073400000
+      }
+    ],
+    "title": "The Lighthouse and The Whaler",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 14,
+        "type": "door"
+      }
+    ],
+    "date": "MON OCT 5",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/894185?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/nClBjDOJbGU"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/1295088&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/29/the-lighthouse-and-the-whaler/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1444251600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1444249800000
+      }
+    ],
+    "title": "Pure Bathing Culture",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "WED OCT 7",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/890353?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/_2WnA4j7NTM"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/24/pure-bathing-culture/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1444338000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1444336200000
+      }
+    ],
+    "title": "Teen Daze",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "THU OCT 8",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/894289?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/2742369&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/29/teen-daze/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1444597200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1444595400000
+      }
+    ],
+    "title": "DRINKS",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "SUN OCT 11",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/891921?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/oDF1JNNc_1k"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/24/drinks/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:30pm",
+        "stamp": 1444941000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:00pm",
+        "stamp": 1444939200000
+      }
+    ],
+    "title": "King Dude",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "THU OCT 15",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/890441?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/MpXoQTsIE1s"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/24/king-dude/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:30pm",
+        "stamp": 1445117400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "9:00pm",
+        "stamp": 1445115600000
+      }
+    ],
+    "title": "Dungen",
+    "prices": [
+      {
+        "price": 15,
+        "type": "unknown"
+      }
+    ],
+    "date": "SAT OCT 17",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/890329?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/6bLRsxgNK2A"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/24/dungen/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1445461200000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1445459400000
+      }
+    ],
+    "title": "The Struts – MOVED TO ROCK & ROLL HOTEL",
+    "prices": [
+      {
+        "price": "SOLD OUT",
+        "type": "unknown"
+      }
+    ],
+    "date": "WED OCT 21",
+    "minage": 0,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/23/the-struts/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "8:00pm",
+        "stamp": 1445544000000
+      },
+      {
+        "label": "Doors",
+        "formatted": "7:00pm",
+        "stamp": 1445540400000
+      }
+    ],
+    "title": "Caspian",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      },
+      {
+        "price": 17,
+        "type": "door"
+      }
+    ],
+    "date": "THU OCT 22",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/892783?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/BsfQouwieOM"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/208961310&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/29/caspian/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1445720400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1445718600000
+      }
+    ],
+    "title": "Little May",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "SAT OCT 24",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/905991?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/w7Mj08UP7Yw"
+    ],
+    "soundcloud": [
+      "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/54028605&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"
+    ],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/14/little-may/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1445979600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1445977800000
+      }
+    ],
+    "title": "David Ryan Harris",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 15,
+        "type": "door"
+      }
+    ],
+    "date": "TUE OCT 27",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/906455?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/vNLLK2a9l9M"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/07/14/david-ryan-harris/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1446411600000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1446409800000
+      }
+    ],
+    "title": "Joanna Gruesome",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "SUN NOV 1",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/870619?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/01/joanna-gruesome/"
+  },
+  {
+    "times": [
+      {
+        "label": "Show",
+        "formatted": "9:00pm",
+        "stamp": 1447016400000
+      },
+      {
+        "label": "Doors",
+        "formatted": "8:30pm",
+        "stamp": 1447014600000
+      }
+    ],
+    "title": "Nathaniel Rateliff & The Night Sweats",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      },
+      {
+        "price": 12,
+        "type": "door"
+      }
+    ],
+    "date": "SUN NOV 8",
+    "minage": 0,
+    "tickets": "https://www.ticketfly.com/purchase/event/889119?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/AzqmVa6n-es"
+    ],
+    "soundcloud": [],
+    "venue_id": "dc9",
+    "url": "http://dcnine.com/calendar/2015/06/23/nathaniel-rateliff-the-night-sweats/"
+  }
+]

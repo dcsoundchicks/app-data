@@ -1,20 +1,24 @@
 #!/usr/bin/env node
 
-var queue = require('queue-async'),
-    flatten = require('lodash.flatten');
+var queue = require('queue-async');
+var flatten = require('lodash.flatten');
+var fs = require('fs');
 
+// require scrapers here
 var venues = [
     require('../venues/dc9.js'),
 ];
 
 var q = queue(1);
 
+// load all venues
 venues.forEach(function(venue) {
     q.defer(venue.load);
-    console.log(venue);
 });
 
+// write to file in json-output
 q.awaitAll(function(err, res) {
     if (err) throw err;
-    process.stdout.write(JSON.stringify(flatten(res), null, 2));
+    fs.writeFile('../json-output/dc9.json', JSON.stringify(flatten(res), null, 2));
+    console.log('File successfully written! - Check your project directory for the output.json file');
 });
