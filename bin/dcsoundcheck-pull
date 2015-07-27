@@ -29,7 +29,7 @@ var venues = [
 
 	{	scraper: _hamilton,
 		filename: 'hamilton'
-	},
+	}, 9
 
 	{	scraper: _ustreet,
 		filename: 'ustreet'
