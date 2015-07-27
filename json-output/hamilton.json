@@ -1,0 +1,1031 @@
+[
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Jul 27 12:00am",
+      "stamp": 1437969600000
+    },
+    "title": "Traveller  (Jonny Fritz, Robert Ellis, Cory Chisel)",
+    "prices": {
+      "min": 17,
+      "max": 23
+    },
+    "date": "Monday Jul 27",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/882151",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/882151-traveller-jonny-fritz-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Jul 30 12:00am",
+      "stamp": 1438228800000
+    },
+    "title": "Rayland Baxter",
+    "prices": {
+      "min": 10,
+      "max": 12
+    },
+    "date": "Thursday Jul 30",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/874489",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/874489-rayland-baxter-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Jul 31 12:00am",
+      "stamp": 1438315200000
+    },
+    "title": "Bombino",
+    "prices": {
+      "min": 20,
+      "max": 30
+    },
+    "date": "Friday Jul 31",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/795233",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/795233-bombino-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Jul 31 12:00am",
+      "stamp": 1438315200000
+    },
+    "title": "Free Late Night Music in The Loft with Moonshine Society",
+    "prices": "",
+    "date": "Friday Jul 31",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/850503-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Aug 1 12:00am",
+      "stamp": 1438401600000
+    },
+    "title": "19th Street Band",
+    "prices": "9.50",
+    "date": "Saturday Aug 01",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/909345",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/909345-19th-street-band-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Aug 1 12:00am",
+      "stamp": 1438401600000
+    },
+    "title": "Free Late Night Music in The Loft with Burt The Dirt",
+    "prices": "",
+    "date": "Saturday Aug 01",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/914695-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Aug 4 12:00am",
+      "stamp": 1438660800000
+    },
+    "title": "Steve Kimock performing Grateful Dead, Jerry Garcia, and Kimock classics",
+    "prices": {
+      "min": 35,
+      "max": 50
+    },
+    "date": "Tuesday Aug 04",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/877023",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/877023-steve-kimock-performing-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Aug 6 12:00am",
+      "stamp": 1438833600000
+    },
+    "title": "Loudon Wainwright III",
+    "prices": {
+      "min": 20,
+      "max": 28
+    },
+    "date": "Thursday Aug 06",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/849267",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/849267-loudon-wainwright-iii-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Aug 7 12:00am",
+      "stamp": 1438920000000
+    },
+    "title": "Free Late Night Music in The Loft with Justin Trawick and The Common Good",
+    "prices": "",
+    "date": "Friday Aug 07",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/872197-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Aug 8 12:00am",
+      "stamp": 1439006400000
+    },
+    "title": "Junior Marvin recreates the 1978 Jamaican One Love Peace Concert",
+    "prices": {
+      "min": 30,
+      "max": 35
+    },
+    "date": "Saturday Aug 08",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/834647",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/834647-junior-marvin-recreates-1978-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Aug 8 12:00am",
+      "stamp": 1439006400000
+    },
+    "title": "Free Late Night Music in The Loft with Speakers of the House",
+    "prices": "",
+    "date": "Saturday Aug 08",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/862285-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Aug 9 12:00am",
+      "stamp": 1439092800000
+    },
+    "title": "Brazilian Girls",
+    "prices": {
+      "min": 25,
+      "max": 30
+    },
+    "date": "Sunday Aug 09",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/867875",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/867875-brazilian-girls-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Aug 12 12:00am",
+      "stamp": 1439352000000
+    },
+    "title": "Carolyn Wonderland and Selwyn Birchwood",
+    "prices": {
+      "min": 15,
+      "max": 20
+    },
+    "date": "Wednesday Aug 12",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/883139",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/883139-carolyn-wonderland-selwyn-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:00 pm",
+      "formatted": "Aug 13 12:00am",
+      "stamp": 1439438400000
+    },
+    "title": "Good Old War",
+    "prices": {
+      "min": 15,
+      "max": 20
+    },
+    "date": "Thursday Aug 13",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/854989",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/854989-good-old-war-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Aug 14 12:00am",
+      "stamp": 1439524800000
+    },
+    "title": "Red Wanting Blue",
+    "prices": {
+      "min": 15,
+      "max": 20
+    },
+    "date": "Friday Aug 14",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/850303",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/850303-red-wanting-blue-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Aug 14 12:00am",
+      "stamp": 1439524800000
+    },
+    "title": "Free Late Night Music in The Loft with Brent & Co",
+    "prices": "",
+    "date": "Friday Aug 14",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/862291-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Aug 15 12:00am",
+      "stamp": 1439611200000
+    },
+    "title": "Chubby Carrier & The Bayou Swamp Band",
+    "prices": {
+      "min": 15,
+      "max": 20
+    },
+    "date": "Saturday Aug 15",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/841205",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/841205-chubby-carrier-bayou-swamp-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Aug 15 12:00am",
+      "stamp": 1439611200000
+    },
+    "title": "Free Late Night Music in The Loft with Johnny & The Headhunters",
+    "prices": "",
+    "date": "Saturday Aug 15",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/872203-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Aug 18 12:00am",
+      "stamp": 1439870400000
+    },
+    "title": "Howard Jones",
+    "prices": {
+      "min": 30,
+      "max": 35
+    },
+    "date": "Tuesday Aug 18",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/865065",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/865065-howard-jones-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Aug 19 12:00am",
+      "stamp": 1439956800000
+    },
+    "title": "Dirty Dozen Brass Band",
+    "prices": {
+      "min": 25,
+      "max": 30
+    },
+    "date": "Wednesday Aug 19",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/849277",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/849277-dirty-dozen-brass-band-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Aug 20 12:00am",
+      "stamp": 1440043200000
+    },
+    "title": "Donavon Frankenreiter",
+    "prices": {
+      "min": 20,
+      "max": 25
+    },
+    "date": "Thursday Aug 20",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/826591",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/826591-donavon-frankenreiter-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Aug 21 12:00am",
+      "stamp": 1440129600000
+    },
+    "title": "Empresarios",
+    "prices": {
+      "min": 15,
+      "max": 20
+    },
+    "date": "Friday Aug 21",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/882175",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/882175-empresarios-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Aug 21 12:00am",
+      "stamp": 1440129600000
+    },
+    "title": "Free Late Night Music in The Loft with Shartel and Hume",
+    "prices": "",
+    "date": "Friday Aug 21",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/862309-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Aug 22 12:00am",
+      "stamp": 1440216000000
+    },
+    "title": "No late night music in The Loft due to a private event",
+    "prices": "",
+    "date": "Saturday Aug 22",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/887577-no-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Aug 27 12:00am",
+      "stamp": 1440648000000
+    },
+    "title": "Love Canon",
+    "prices": {
+      "min": 15,
+      "max": 20
+    },
+    "date": "Thursday Aug 27",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/865105",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/865105-love-canon-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Aug 28 12:00am",
+      "stamp": 1440734400000
+    },
+    "title": "Honey Island Swamp Band and John Nemeth",
+    "prices": {
+      "min": 15,
+      "max": 20
+    },
+    "date": "Friday Aug 28",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/909331",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/909331-honey-island-swamp-band-john-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Aug 28 12:00am",
+      "stamp": 1440734400000
+    },
+    "title": "Free Late Night Music in The Loft with Lloyd Dobler Effect",
+    "prices": "",
+    "date": "Friday Aug 28",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/866245-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Aug 29 12:00am",
+      "stamp": 1440820800000
+    },
+    "title": "Yellow Dubmarine",
+    "prices": {
+      "min": 18,
+      "max": 23
+    },
+    "date": "Saturday Aug 29",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/843727",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/843727-yellow-dubmarine-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Aug 29 12:00am",
+      "stamp": 1440820800000
+    },
+    "title": "Free Late Night Music in The Loft with David Kitchen Band",
+    "prices": "",
+    "date": "Saturday Aug 29",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/872207-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "7:30 pm",
+      "formatted": "Aug 30 12:00am",
+      "stamp": 1440907200000
+    },
+    "title": "Nicki Bluhm and The Gramblers",
+    "prices": {
+      "min": 18,
+      "max": 28
+    },
+    "date": "Sunday Aug 30",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/875991",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/875991-nicki-bluhm-gramblers-washington/"
+  },
+  {
+    "times": {
+      "doors": "9:00 pm",
+      "show": "10:30 pm",
+      "formatted": "Sep 4 12:00am",
+      "stamp": 1441339200000
+    },
+    "title": "Free Late Night Music in The Loft with 19th Street Band",
+    "prices": "",
+    "date": "Friday Sep 04",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/866249-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Sep 5 12:00am",
+      "stamp": 1441425600000
+    },
+    "title": "Free Late Night Music in The Loft with Justin Trawick and The Common Good",
+    "prices": "",
+    "date": "Saturday Sep 05",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/887581-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Sep 6 12:00am",
+      "stamp": 1441512000000
+    },
+    "title": "Los Lobos",
+    "prices": {
+      "min": 48,
+      "max": 55
+    },
+    "date": "Sunday Sep 06",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/859763",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/859763-los-lobos-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Sep 8 12:00am",
+      "stamp": 1441684800000
+    },
+    "title": "Mike Peters (from The Alarm)—Solo Show",
+    "prices": {
+      "min": 15,
+      "max": 23
+    },
+    "date": "Tuesday Sep 08",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/871533",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/871533-mike-peters-from-alarm-solo-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Sep 10 12:00am",
+      "stamp": 1441857600000
+    },
+    "title": "Corey Smith",
+    "prices": {
+      "min": 30,
+      "max": 35
+    },
+    "date": "Thursday Sep 10",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/883045",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/883045-corey-smith-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Sep 11 12:00am",
+      "stamp": 1441944000000
+    },
+    "title": "The Fab Faux (First Night)",
+    "prices": {
+      "min": 50,
+      "max": 95
+    },
+    "date": "Friday Sep 11",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/834811",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/834811-fab-faux-first-night-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Sep 12 12:00am",
+      "stamp": 1442030400000
+    },
+    "title": "The Fab Faux (Second Night)",
+    "prices": {
+      "min": 50,
+      "max": 95
+    },
+    "date": "Saturday Sep 12",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/834897",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/834897-fab-faux-second-night-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Sep 20 12:00am",
+      "stamp": 1442721600000
+    },
+    "title": "The Nightowls",
+    "prices": {
+      "min": 14,
+      "max": 18
+    },
+    "date": "Sunday Sep 20",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/911747",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/911747-nightowls-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Sep 22 12:00am",
+      "stamp": 1442894400000
+    },
+    "title": "Jackie Greene",
+    "prices": {
+      "min": 20,
+      "max": 23
+    },
+    "date": "Tuesday Sep 22",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/878213",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/878213-jackie-greene-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Sep 23 12:00am",
+      "stamp": 1442980800000
+    },
+    "title": "Spirit Family Reunion",
+    "prices": {
+      "min": 17,
+      "max": 22
+    },
+    "date": "Wednesday Sep 23",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/905783",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/905783-spirit-family-reunion-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:00 pm",
+      "formatted": "Sep 24 12:00am",
+      "stamp": 1443067200000
+    },
+    "title": "moe.",
+    "prices": "39.00",
+    "date": "Thursday Sep 24",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/910129",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/910129-moe-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Sep 30 12:00am",
+      "stamp": 1443585600000
+    },
+    "title": "The Great Guitars",
+    "prices": {
+      "min": 25,
+      "max": 35
+    },
+    "date": "Wednesday Sep 30",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/899887",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/899887-great-guitars-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Oct 2 12:00am",
+      "stamp": 1443758400000
+    },
+    "title": "Lee Ritenour",
+    "prices": {
+      "min": 27,
+      "max": 40
+    },
+    "date": "Friday Oct 02",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/882857",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/882857-lee-ritenour-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Oct 8 12:00am",
+      "stamp": 1444276800000
+    },
+    "title": "ALO",
+    "prices": {
+      "min": 18,
+      "max": 25
+    },
+    "date": "Thursday Oct 08",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/888929",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/888929-alo-washington/"
+  },
+  {
+    "times": {
+      "formatted": "Oct 9 12:00am",
+      "stamp": 1444363200000
+    },
+    "title": "Free Late Night Music in The Loft with 19th Street Band",
+    "prices": "",
+    "date": "Friday Oct 09",
+    "minage": null,
+    "tickets": null,
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/901129-free-late-night-music-in-loft-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Oct 12 12:00am",
+      "stamp": 1444622400000
+    },
+    "title": "Kinky Friedman’s Loneliest Man I Ever Met Tour",
+    "prices": {
+      "min": 20,
+      "max": 30
+    },
+    "date": "Monday Oct 12",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/886997",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/886997-kinky-friedman-s-loneliest-man-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:00 pm",
+      "formatted": "Oct 13 12:00am",
+      "stamp": 1444708800000
+    },
+    "title": "John Grant",
+    "prices": {
+      "min": 18,
+      "max": 25
+    },
+    "date": "Tuesday Oct 13",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/885845",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/885845-john-grant-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Oct 14 12:00am",
+      "stamp": 1444795200000
+    },
+    "title": "The Taj Mahal Trio",
+    "prices": {
+      "min": 38,
+      "max": 55
+    },
+    "date": "Wednesday Oct 14",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/840363",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/840363-taj-mahal-trio-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Oct 15 12:00am",
+      "stamp": 1444881600000
+    },
+    "title": "Bettye LaVette",
+    "prices": {
+      "min": 28,
+      "max": 40
+    },
+    "date": "Thursday Oct 15",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/881569",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/881569-bettye-lavette-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Oct 16 12:00am",
+      "stamp": 1444968000000
+    },
+    "title": "Big Something",
+    "prices": {
+      "min": 17,
+      "max": 22
+    },
+    "date": "Friday Oct 16",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/909167",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/909167-big-something-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Oct 18 12:00am",
+      "stamp": 1445140800000
+    },
+    "title": "Ed Kowalczyk - Throwing Copper Unplugged",
+    "prices": {
+      "min": 30,
+      "max": 35
+    },
+    "date": "Sunday Oct 18",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/856345",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/856345-ed-kowalczyk-throwing-copper-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Oct 23 12:00am",
+      "stamp": 1445572800000
+    },
+    "title": "American Aquarium",
+    "prices": {
+      "min": 15,
+      "max": 20
+    },
+    "date": "Friday Oct 23",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/903643",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/903643-american-aquarium-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Oct 25 12:00am",
+      "stamp": 1445745600000
+    },
+    "title": "Pete Rock & C.L. Smooth",
+    "prices": {
+      "min": 20,
+      "max": 25
+    },
+    "date": "Sunday Oct 25",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/906009",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/906009-pete-rock-cl-smooth-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Oct 28 12:00am",
+      "stamp": 1446004800000
+    },
+    "title": "Portland Cello Project",
+    "prices": {
+      "min": 16,
+      "max": 23
+    },
+    "date": "Wednesday Oct 28",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/881513",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/881513-portland-cello-project-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Oct 30 12:00am",
+      "stamp": 1446177600000
+    },
+    "title": "Tim O'Brien and Old Man Luedecke",
+    "prices": {
+      "min": 17,
+      "max": 25
+    },
+    "date": "Friday Oct 30",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/887407",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/887407-tim-obrien-old-man-luedecke-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Nov 1 12:00am",
+      "stamp": 1446350400000
+    },
+    "title": "Brass-A-Holics",
+    "prices": {
+      "min": 20,
+      "max": 25
+    },
+    "date": "Sunday Nov 01",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/917853",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/917853-brass-holics-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Nov 5 12:00am",
+      "stamp": 1446699600000
+    },
+    "title": "The Bros. Landreth",
+    "prices": {
+      "min": 15,
+      "max": 20
+    },
+    "date": "Thursday Nov 05",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/907183",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/907183-bros-landreth-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Nov 8 12:00am",
+      "stamp": 1446958800000
+    },
+    "title": "Peter Himmelman Band",
+    "prices": {
+      "min": 18,
+      "max": 27
+    },
+    "date": "Sunday Nov 08",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/912721",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/912721-peter-himmelman-band-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Nov 10 12:00am",
+      "stamp": 1447131600000
+    },
+    "title": "Stephen Kellogg",
+    "prices": {
+      "min": 20,
+      "max": 25
+    },
+    "date": "Tuesday Nov 10",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/901463",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/901463-stephen-kellogg-washington/"
+  },
+  {
+    "times": {
+      "doors": "6:30 pm",
+      "show": "7:30 pm",
+      "formatted": "Nov 12 12:00am",
+      "stamp": 1447304400000
+    },
+    "title": "Jon McLaughlin",
+    "prices": {
+      "min": 15,
+      "max": 20
+    },
+    "date": "Thursday Nov 12",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/865077",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/865077-jon-mclaughlin-washington/"
+  },
+  {
+    "times": {
+      "doors": "7:00 pm",
+      "show": "8:30 pm",
+      "formatted": "Nov 13 12:00am",
+      "stamp": 1447390800000
+    },
+    "title": "The Last Waltz Tribute",
+    "prices": {
+      "min": 30,
+      "max": 40
+    },
+    "date": "Friday Nov 13",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/856957",
+    "venue_id": "hamilton",
+    "url": "http://live.thehamiltondc.com//event/856957-last-waltz-tribute-washington/"
+  }
+]

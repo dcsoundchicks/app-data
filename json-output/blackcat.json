@@ -1,0 +1,1749 @@
+[
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1437771600000
+      }
+    ],
+    "title": "PUNK ROCK KARAOKE",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 10
+      }
+    ],
+    "date": "Friday July 24",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/892939?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      " A Benefit for Girls Rock! DC"
+    ],
+    "url": "http://www.blackcatdc.com/shows/punk-rock-karaoke.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "10:00pm",
+        "stamp": 1437775200000
+      }
+    ],
+    "title": "HEAVY ROTATION",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 5
+      }
+    ],
+    "date": "Friday July 24",
+    "minage": null,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "featuring",
+      "DJ Provoke",
+      "MARTIN MIGUEL",
+      "JOHN JAZZ",
+      "OZKER"
+    ],
+    "url": "http://www.blackcatdc.com/shows/heavy-rotation.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "8:00pm",
+        "stamp": 1437854400000
+      }
+    ],
+    "title": "RUN FOR COVER 2015",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 12
+      }
+    ],
+    "date": "Saturday July 25",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880983?utm_medium=bks",
+    "youtube": [
+      "http://www.youtube.com/embed/RgrMwOO-AqQ"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/run-for-cover.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "10:00pm",
+        "stamp": 1437861600000
+      }
+    ],
+    "title": "GAY/BASH!",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 7
+      }
+    ],
+    "date": "Saturday July 25",
+    "minage": null,
+    "tickets": null,
+    "youtube": [
+      "//www.youtube.com/embed/8MnpeRBvX3M?rel=0"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "performances by:",
+      "HEIDI GLÜM",
+      "SUMMER CAMP",
+      "ALOTTA MCGRIDDLES",
+      "RUMOR MILLZ",
+      "SALVADORA DALI",
+      "with special guest DJ NATTY BOOM",
+      "and DJ DONNA SLASH"
+    ],
+    "url": "http://www.blackcatdc.com/shows/gay-bash.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1437939000000
+      }
+    ],
+    "title": "THE IDENTITY CRISIS COMEDY SHOWCASE",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Sunday July 26",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/897929?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/5fqmNe2b1A0?rel=0"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "A local comedy show. Featuring:",
+      "ANDY KLINE",
+      "KANDACE SAUNDERS",
+      "MIKE FINAZZO",
+      "PARIS SASHAY",
+      "ADRIAN RODNEY",
+      "KATHERINE JESSUP",
+      "JAMEL DOTSON",
+      "MARTIN AMINI"
+    ],
+    "url": "http://www.blackcatdc.com/shows/identity-crisis.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:00pm",
+        "stamp": 1438023600000
+      }
+    ],
+    "title": "MUGGLE MONDAYS",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 0
+      }
+    ],
+    "date": "Monday July 27",
+    "minage": null,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "Wizard movie night plus Butterbeer drink specials!",
+      "This week: Harry Potter and the Prisoner of Azkaban"
+    ],
+    "url": "http://www.blackcatdc.com/shows/muggle-3.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438111800000
+      }
+    ],
+    "title": "ELENA & LOS FULANOS",
+    "prices": [
+      {
+        "type": "advance",
+        "price": 10
+      },
+      {
+        "type": "doors",
+        "price": 12
+      }
+    ],
+    "date": "Tuesday July 28",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880977?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/EJ3homszGnM"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "LETITIA VANSANT",
+      "ANDREA PAIS"
+    ],
+    "url": "http://www.blackcatdc.com/shows/elena-and-los-fulanos.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438198200000
+      }
+    ],
+    "title": "MOULLINEX withBEN BROWNING (of Cut Copy)",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 15
+      }
+    ],
+    "date": "Wednesday July 29",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/864303?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/czdYw-YAfoI",
+      "https://www.youtube.com/embed/7pPKdgQfr-E"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/moullinex.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438198200000
+      }
+    ],
+    "title": "MOULLINEX withBEN BROWNING (of Cut Copy)",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 15
+      }
+    ],
+    "date": "Wednesday July 29",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/864303?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/czdYw-YAfoI",
+      "https://www.youtube.com/embed/7pPKdgQfr-E"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/moullinex.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438284600000
+      }
+    ],
+    "title": "BRNDA",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Thursday July 30",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880975?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "WILD HONEY",
+      "DEN-MATE"
+    ],
+    "url": "http://www.blackcatdc.com/shows/brnda.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1438376400000
+      }
+    ],
+    "title": "SASHEER ZAMATA",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 15
+      }
+    ],
+    "date": "Friday July 31",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/838007?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "KENNY DEFOREST"
+    ],
+    "url": "http://www.blackcatdc.com/shows/sasheer-zamata.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "10:00pm",
+        "stamp": 1438380000000
+      }
+    ],
+    "title": "DARK & STORMY",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 5
+      }
+    ],
+    "date": "Friday July 31",
+    "minage": null,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "Darker side of Dance / Electro / Retro with DJ Shea Van Horn"
+    ],
+    "url": "http://www.blackcatdc.com/shows/dark-and-stormy.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "11:00pm",
+        "stamp": 1438470000000
+      }
+    ],
+    "title": "IN IT TOGETHER FEST AFTER-PARTY:",
+    "prices": [],
+    "date": "Saturday Aug 1",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/886085?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "HURRY",
+      "LATE BLOOMER",
+      "ALRIGHT"
+    ],
+    "url": "http://www.blackcatdc.com/shows/in-it-together.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438543800000
+      }
+    ],
+    "title": "DEAR CREEK",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Sunday Aug 2",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880669?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/fCTqt6AUGrc"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "AMPERSAND STRINGBAND"
+    ],
+    "url": "http://www.blackcatdc.com/shows/dear-creek.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:00pm",
+        "stamp": 1438628400000
+      }
+    ],
+    "title": "MUGGLE MONDAYS",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 0
+      }
+    ],
+    "date": "Monday Aug 3",
+    "minage": null,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "Wizard movie night plus Butterbeer drink specials!",
+      "This week: Harry Potter and the Goblet of Fire"
+    ],
+    "url": "http://www.blackcatdc.com/shows/muggle-4.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438716600000
+      }
+    ],
+    "title": "FLESH WORLD",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Tuesday Aug 4",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880969?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/x1Rh92--Ysw"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "YOUNG TRYNAS",
+      "HOTHEAD"
+    ],
+    "url": "http://www.blackcatdc.com/shows/flesh-world.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438803000000
+      }
+    ],
+    "title": "THE EFFECTS",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Wednesday Aug 5",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880691?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "SAVAK",
+      "JOY BUTTONS"
+    ],
+    "url": "http://www.blackcatdc.com/shows/the-effects.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438889400000
+      }
+    ],
+    "title": "KOSHARI",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Thursday Aug 6",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/903543?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "INSECT FACTORY"
+    ],
+    "url": "http://www.blackcatdc.com/shows/koshari.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1438981200000
+      }
+    ],
+    "title": "(THE) THURSTON MOORE BAAND",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 15
+      }
+    ],
+    "date": "Friday Aug 7",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/844875?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/Z0bsQ-rqsxc"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "CHAIN & THE GANG",
+      "WHILE (feat. Christina Billotte)"
+    ],
+    "url": "http://www.blackcatdc.com/shows/thurston-moore.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1438981200000
+      }
+    ],
+    "title": "SHERLOCK HOLMES",
+    "prices": [
+      {
+        "type": "advance",
+        "price": 12
+      },
+      {
+        "type": "doors",
+        "price": 15
+      }
+    ],
+    "date": "Friday August 7",
+    "minage": 21,
+    "tickets": "https://www.ticketfly.com/purchase/event/897899?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "The Evil League Of Ecdysiasts Presents:",
+      "The Adventure of the Black Cat"
+    ],
+    "url": "http://www.blackcatdc.com/shows/burlesque2.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:30pm",
+        "stamp": 1439069400000
+      }
+    ],
+    "title": "MIXTAPE",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 10
+      }
+    ],
+    "date": "Saturday Aug 8",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/898543?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "w/ DJs Shea Van Horn & Matt Bailer"
+    ],
+    "url": "http://www.blackcatdc.com/shows/mixtape.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1439067600000
+      }
+    ],
+    "title": "STAR TREK vs STAR WARS BURLESQUE",
+    "prices": [
+      {
+        "type": "advance",
+        "price": 12
+      },
+      {
+        "type": "doors",
+        "price": 15
+      }
+    ],
+    "date": "Saturday Aug 8",
+    "minage": 21,
+    "tickets": "https://www.ticketfly.com/purchase/event/914881?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "Swami YoMahmi presents:"
+    ],
+    "url": "http://www.blackcatdc.com/shows/burlesque3.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1439148600000
+      }
+    ],
+    "title": "CITADEL",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Sunday Aug 9",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/871205?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "TECHNOPHOBIA",
+      "CURSE"
+    ],
+    "url": "http://www.blackcatdc.com/shows/citadel.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:00pm",
+        "stamp": 1439233200000
+      }
+    ],
+    "title": "MUGGLE MONDAYS",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 0
+      }
+    ],
+    "date": "Monday Aug 10",
+    "minage": null,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "Wizard movie night plus Butterbeer drink specials!",
+      "This week: Harry Potter and the Order of the Phoenix"
+    ],
+    "url": "http://www.blackcatdc.com/shows/muggle-1.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1439407800000
+      }
+    ],
+    "title": "BELLOWS",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Wednesday Aug 12",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880723?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/6e3bV26nRF0"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "SITCOM",
+      "BLESS"
+    ],
+    "url": "http://www.blackcatdc.com/shows/bellows.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1439494200000
+      }
+    ],
+    "title": "THROWING SHADE",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 20
+      }
+    ],
+    "date": "Thursday Aug 13",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/885401?utm_medium=bks",
+    "youtube": [
+      "//www.youtube.com/embed/pF2CmddSNJs?rel=0"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/throwing-shade.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:0099pm",
+        "stamp": 1439586000000
+      }
+    ],
+    "title": "99: A ROCK OPERA",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 10
+      }
+    ],
+    "date": "Friday Aug 14",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/901159?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/rock-opera.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1439672400000
+      }
+    ],
+    "title": "JC BROOKS & THE UPTOWN SOUND",
+    "prices": [],
+    "date": "Saturday Aug 15",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/875945?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/0I0gQFX5i9w"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "SHARK WEEK"
+    ],
+    "url": "http://www.blackcatdc.com/shows/jc-brooks.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1439753400000
+      }
+    ],
+    "title": "(STOP WORRYING AND) LOVE THE BOMB",
+    "prices": [
+      {
+        "type": "advance",
+        "price": 10
+      },
+      {
+        "type": "doors",
+        "price": 12
+      }
+    ],
+    "date": "Sunday Aug 16",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/903479?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "(Nate's Last Show!)",
+      "THE DO LIKES (Record Release)",
+      "THE COMBS"
+    ],
+    "url": "http://www.blackcatdc.com/shows/stop-worrying.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1439926200000
+      }
+    ],
+    "title": "MÖBIUS STRIP",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Tuesday Aug 18",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/903545?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "BOOBY TRAP",
+      "PSYCHIC SUBCREATURES"
+    ],
+    "url": "http://www.blackcatdc.com/shows/mobius-strip.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440012600000
+      }
+    ],
+    "title": "LITERATURE",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Wednesday Aug 19",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/914851?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/ILr58PsQfuU"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "EXPERT ALTERATIONS",
+      "THE REMEMBERABLES"
+    ],
+    "url": "http://www.blackcatdc.com/shows/literature.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440099000000
+      }
+    ],
+    "title": "THE COWARDS CHOIR",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Thursday Aug 20",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880727?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "COCONUT MILK",
+      "SUPER CITY"
+    ],
+    "url": "http://www.blackcatdc.com/shows/cowards-choir.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1440190800000
+      }
+    ],
+    "title": "THE 8-BIT REVUE",
+    "prices": [
+      {
+        "type": "advance",
+        "price": 15
+      },
+      {
+        "type": "doors",
+        "price": 18
+      }
+    ],
+    "date": "Friday Aug 21",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/903535?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "Maki Roll Presents:",
+      "A Sexy Journey Through Video Game History"
+    ],
+    "url": "http://www.blackcatdc.com/shows/burlesque.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:30pm",
+        "stamp": 1440192600000
+      }
+    ],
+    "title": "SLUTWALK DC BENEFIT CONCERT:",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 12
+      }
+    ],
+    "date": "Friday Aug 21",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/908879?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/9rCHVv-WASk"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "featuring:",
+      "THE ESCAPE ARTIST",
+      "ATOKA CHASE",
+      "Hosted by KRISTINA MARIE"
+    ],
+    "url": "http://www.blackcatdc.com/shows/slut-walk.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "8:00pm",
+        "stamp": 1440273600000
+      }
+    ],
+    "title": "RISK!",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 20
+      }
+    ],
+    "date": "Saturday Aug 22",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/893197?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/bw3sDnq6swI"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/risk.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440358200000
+      }
+    ],
+    "title": "AMANDA XTHE SPIRIT OF THE BEEHIVE",
+    "prices": [
+      {
+        "type": "advance",
+        "price": 10
+      },
+      {
+        "type": "doors",
+        "price": 12
+      }
+    ],
+    "date": "Sunday Aug 23",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/877537?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/3wBmmomVq6Y"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "GO COZY"
+    ],
+    "url": "http://www.blackcatdc.com/shows/amanda-x.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440531000000
+      }
+    ],
+    "title": "DEAD HEAVENS",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 12
+      }
+    ],
+    "date": "Tuesday Aug 25",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/903975?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/wsZVCxQVGRk"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/dead-heavens.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440617400000
+      }
+    ],
+    "title": "SILENT ON FIFTH STREET",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Wednesday Aug 26",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/904233?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/krJp01MUGWg"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "ARTIFACTS",
+      "ENOCH THE 7th PROPHET"
+    ],
+    "url": "http://www.blackcatdc.com/shows/silent-on-fifth-street.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440703800000
+      }
+    ],
+    "title": "KING RAAM",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 15
+      }
+    ],
+    "date": "Thursday Aug 27",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/864309?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/ufmuGha9p74"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "SMOKE SEASON"
+    ],
+    "url": "http://www.blackcatdc.com/shows/king-raam.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1440795600000
+      }
+    ],
+    "title": "POSTCARDS FROM THE VAG:",
+    "prices": [
+      {
+        "type": "advance",
+        "price": 10
+      },
+      {
+        "type": "doors",
+        "price": 15
+      }
+    ],
+    "date": "Friday Aug 28",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/913345?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "A Frank and Funny Storytelling Show About Abortion",
+      "And Benefit for Lady Parts Justice",
+      "featuring:  Lizz Winstead"
+    ],
+    "url": "http://www.blackcatdc.com/shows/postcards-vag.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:30pm",
+        "stamp": 1440883800000
+      }
+    ],
+    "title": "EIGHTIES MAYHEM",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 10
+      }
+    ],
+    "date": "Saturday Aug 29",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/903131?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "FYM Productions presents:",
+      "END OF SUMMER 80s DANCE PARTY",
+      "w/ DJs Steve EP, Killa K, Missguided, and Krasty McNasty"
+    ],
+    "url": "http://www.blackcatdc.com/shows/eighties.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440963000000
+      }
+    ],
+    "title": "THE GREY A",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 12
+      }
+    ],
+    "date": "Sunday Aug 30",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/903119?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/ic9FahwCm4s"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "LAURA TSAGGARIS",
+      "BENJAMIN SHEPHERD"
+    ],
+    "url": "http://www.blackcatdc.com/shows/grey-a.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1441135800000
+      }
+    ],
+    "title": "ROMANTIC WARRIORS III - CANTERBURY TALES",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 8
+      }
+    ],
+    "date": "Tuesday Sept 1",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880833?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/p1RdZgf5lk4"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "Film Screening:",
+      "plus Q&A after the film"
+    ],
+    "url": "http://www.blackcatdc.com/shows/film-screening.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1441308600000
+      }
+    ],
+    "title": "BOSLEY",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 10
+      }
+    ],
+    "date": "Thursday Sept 3",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/917779?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/sjwGDVjlX8o"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "M.H. & HIS ORCHESTRA"
+    ],
+    "url": "http://www.blackcatdc.com/shows/bosley.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1441400400000
+      }
+    ],
+    "title": "BEAUTY PILL",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 12
+      }
+    ],
+    "date": "Friday Sept 4",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/908045?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/2e-9RIIXtI0"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "PAPERHAUS",
+      "REDLINE GRAFFITI"
+    ],
+    "url": "http://www.blackcatdc.com/shows/beauty-pill.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1442005200000
+      }
+    ],
+    "title": "MAC SABBATH",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 15
+      }
+    ],
+    "date": "Friday Sept 11",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/904229?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/m1wkfJY3AZM"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/mac-sabbath.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1442091600000
+      }
+    ],
+    "title": "TITUS ANDRONICUS",
+    "prices": [
+      {
+        "type": "advance",
+        "price": 16
+      },
+      {
+        "type": "doors",
+        "price": 18
+      }
+    ],
+    "date": "Saturday Sept 12",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/873385?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/0dX6LL7b8Y0"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "SPIDER BAGS",
+      "BAKED"
+    ],
+    "url": "http://www.blackcatdc.com/shows/titus-andronicus.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1442172600000
+      }
+    ],
+    "title": "GOODNIGHT, TEXAS",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 12
+      }
+    ],
+    "date": "Sunday Sept 13",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/916437?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/sYTNcTfi3lo"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/goodnight-texas.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1442345400000
+      }
+    ],
+    "title": "THE DOUBLECLICKS",
+    "prices": [
+      {
+        "type": "ADV",
+        "price": 12
+      },
+      {
+        "type": "doors",
+        "price": 15
+      }
+    ],
+    "date": "Tuesday Sept 15",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/901341?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/s4Rjy5yW1gQ"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "#NERDNIGHTOUT TOUR",
+      "JOSEPH SCRIMSHAW",
+      "MOLLY LEWIS"
+    ],
+    "url": "http://www.blackcatdc.com/shows/nerd-night-out.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1443036600000
+      }
+    ],
+    "title": "JOYCE MANOR",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 15
+      }
+    ],
+    "date": "Wednesday Sept 23",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/872229?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "CHEAP GIRLS",
+      "TRACKS (Jason Anderson)"
+    ],
+    "url": "http://www.blackcatdc.com/shows/joyce-manor.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1443214800000
+      }
+    ],
+    "title": "EL TEN ELEVEN",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 15
+      }
+    ],
+    "date": "Friday Sept 25",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880785?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/UBTUAHGpQqE"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "SEGO"
+    ],
+    "url": "http://www.blackcatdc.com/shows/el-ten-eleven.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1443301200000
+      }
+    ],
+    "title": "LOW",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 20
+      }
+    ],
+    "date": "Saturday Sept 26",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/884083?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/lchC5sQepqE"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "ANDY SHAUF"
+    ],
+    "url": "http://www.blackcatdc.com/shows/low.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1443468600000
+      }
+    ],
+    "title": "FIDLAR",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 17
+      }
+    ],
+    "date": "Monday Sept 28",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/871049?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/iJy8VgB83OQ"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "DUNE RATS"
+    ],
+    "url": "http://www.blackcatdc.com/shows/fidlar.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1443727800000
+      }
+    ],
+    "title": "JOEY CAPE",
+    "prices": [
+      {
+        "type": "Backstage",
+        "price": 12
+      }
+    ],
+    "date": "Thursday Oct 1",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/898137?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/q1nHZM7Z8Dc"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/joey-cape.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1443906000000
+      }
+    ],
+    "title": "NOAH GUNDERSEN",
+    "prices": [
+      {
+        "type": "advance",
+        "price": 16
+      },
+      {
+        "type": "doors",
+        "price": 18
+      }
+    ],
+    "date": "Saturday Oct 3",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/849997?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/vvnZRnK7ySk"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "FIELD REPORT"
+    ],
+    "url": "http://www.blackcatdc.com/shows/noah-gundersen.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1444591800000
+      }
+    ],
+    "title": "ELECTRIC SIX",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 15
+      }
+    ],
+    "date": "Sunday Oct 11",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/893005?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/BRrfnvGQG1I"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "YIP DECEIVER"
+    ],
+    "url": "http://www.blackcatdc.com/shows/electric-six.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1444937400000
+      }
+    ],
+    "title": "BLITZEN TRAPPER",
+    "prices": [],
+    "date": "Thursday Oct 15",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/908837?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/CmBgxP56R1I"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/blitzen-trapper.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1445283000000
+      }
+    ],
+    "title": "TELEKINESISSAY HI",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 15
+      }
+    ],
+    "date": "Monday Oct 19",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/878187?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/FRgxATzW2O0",
+      "https://www.youtube.com/embed/DPO-NvSD1QU"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/telekinesis.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1445283000000
+      }
+    ],
+    "title": "TELEKINESISSAY HI",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 15
+      }
+    ],
+    "date": "Monday Oct 19",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/878187?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/FRgxATzW2O0",
+      "https://www.youtube.com/embed/DPO-NvSD1QU"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/telekinesis.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1445369400000
+      }
+    ],
+    "title": "BOYS LIFE",
+    "prices": [
+      {
+        "type": "advance",
+        "price": 18
+      },
+      {
+        "type": "doors",
+        "price": 20
+      }
+    ],
+    "date": "Tuesday Oct 20",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/892923?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/z_c1vZE_dAI"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [
+      "JOSH BERWANGER BAND",
+      "JOHN BUSTINE"
+    ],
+    "url": "http://www.blackcatdc.com/shows/boys-life.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "9:00pm",
+        "stamp": 1445720400000
+      }
+    ],
+    "title": "BABES IN TOYLAND",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 25
+      }
+    ],
+    "date": "Saturday Oct 24",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/883953?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/cDHrsqre_TQ"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/babes-in-toyland.html"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1445974200000
+      }
+    ],
+    "title": "THE EX  &KEN VANDERMARK",
+    "prices": [
+      {
+        "type": "Mainstage",
+        "price": 20
+      }
+    ],
+    "date": "Tuesday Oct 27",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/888635?utm_medium=bks",
+    "youtube": [
+      "https://www.youtube.com/embed/99fOCEhD_hM"
+    ],
+    "soundcloud": [],
+    "venue_id": "blackcat",
+    "supporters": [],
+    "url": "http://www.blackcatdc.com/shows/the-ex.html"
+  }
+]

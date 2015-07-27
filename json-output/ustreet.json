@@ -1,0 +1,949 @@
+[
+  {
+    "times": [],
+    "title": "Sheppard",
+    "prices": [
+      {
+        "price": 18,
+        "type": "advance"
+      }
+    ],
+    "date": "Mon, July 27, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/863589",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/863589-sheppard-washington/"
+  },
+  {
+    "times": [],
+    "title": "Erol Alkan",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, July 30, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/871397",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/871397-erol-alkan-washington/"
+  },
+  {
+    "times": [],
+    "title": "Alle Farben",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, July 31, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/833107",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/833107-alle-farben-washington/"
+  },
+  {
+    "times": [],
+    "title": "Green Velvet",
+    "prices": [
+      {
+        "price": 18,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, August  1, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/877125",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/877125-green-velvet-washington/"
+  },
+  {
+    "times": [],
+    "title": "Sweater Beats",
+    "prices": [
+      {
+        "price": 0,
+        "type": "advance"
+      }
+    ],
+    "date": "Sun, August  2, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/918003",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/918003-sweater-beats-washington/"
+  },
+  {
+    "times": [],
+    "title": "Young Rising Sons and Hunter Hunted",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Mon, August  3, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/859555",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/859555-young-rising-sons-hunter-washington/"
+  },
+  {
+    "times": [],
+    "title": "JayCeeOh",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, August  6, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/899883",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/899883-jayceeoh-washington/"
+  },
+  {
+    "times": [],
+    "title": "Kenny Larkin",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, August  7, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/889629",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/889629-kenny-larkin-washington/"
+  },
+  {
+    "times": [],
+    "title": "Bridget Kelly",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, August  8, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/909959",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/909959-bridget-kelly-washington/"
+  },
+  {
+    "times": [],
+    "title": "Hardkiss - Delusions of Grandeur",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, August  8, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/894451",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/894451-hardkiss-delusions-grandeur-washington/"
+  },
+  {
+    "times": [],
+    "title": "Vic Mensa",
+    "prices": [
+      {
+        "price": 25,
+        "type": "advance"
+      }
+    ],
+    "date": "Tue, August 11, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/905239",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/905239-vic-mensa-washington/"
+  },
+  {
+    "times": [],
+    "title": "Drumsound & Bassline Smith w/ Tantrum Desire",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Wed, August 12, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/885873",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/885873-drumsound-bassline-smith-washington/"
+  },
+  {
+    "times": [],
+    "title": "EPROM & Alix Perez",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, August 13, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/897009",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/897009-eprom-alix-perez-washington/"
+  },
+  {
+    "times": [],
+    "title": "The Black Madonna, Martyn, Max D",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, August 14, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880561",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/880561-black-madonna-martyn-max-d-washington/"
+  },
+  {
+    "times": [],
+    "title": "OverDoz.",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, August 15, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/905265",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/905265-overdoz-washington/"
+  },
+  {
+    "times": [],
+    "title": "Louis the Child & Shawn Wasabi",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, August 15, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/880569",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/880569-louis-child-shawn-wasabi-washington/"
+  },
+  {
+    "times": [],
+    "title": "Film Noir",
+    "prices": [
+      {
+        "price": 5,
+        "type": "advance"
+      }
+    ],
+    "date": "Wed, August 19, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/888395",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/888395-film-noir-washington/"
+  },
+  {
+    "times": [],
+    "title": "Nicolas Jaar DJ Set",
+    "prices": [
+      {
+        "price": 25,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, August 20, 2015",
+    "minage": null,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/880543-nicolas-jaar-dj-set-washington/"
+  },
+  {
+    "times": [],
+    "title": "Eelke Kleijn",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, August 21, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/888573",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/888573-eelke-kleijn-washington/"
+  },
+  {
+    "times": [],
+    "title": "¡Mayday! & Footwerk",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, August 27, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/884949",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/884949-mayday-footwerk-washington/"
+  },
+  {
+    "times": [],
+    "title": "Stooki Sound",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, August 27, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/904219",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/904219-stooki-sound-washington/"
+  },
+  {
+    "times": [],
+    "title": "Alessia Cara",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, August 28, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/908007",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/908007-alessia-cara-washington/"
+  },
+  {
+    "times": [],
+    "title": "Maxxi Soundsystem",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, August 28, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/893155",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/893155-maxxi-soundsystem-washington/"
+  },
+  {
+    "times": [],
+    "title": "Sage Francis",
+    "prices": [
+      {
+        "price": 20,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, August 29, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/903415",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/903415-sage-francis-washington/"
+  },
+  {
+    "times": [],
+    "title": "Andy C",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, September  3, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/896709",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/896709-andy-c-washington/"
+  },
+  {
+    "times": [],
+    "title": "Huxley",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, September  5, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/900553",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/900553-huxley-washington/"
+  },
+  {
+    "times": [],
+    "title": "Say Lou Lou",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Tue, September  8, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/866691",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/866691-say-lou-lou-washington/"
+  },
+  {
+    "times": [],
+    "title": "Chelsea Wolfe",
+    "prices": [
+      {
+        "price": 18,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, September 11, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/872471",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/872471-chelsea-wolfe-washington/"
+  },
+  {
+    "times": [],
+    "title": "Zimmer & Crazy P",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, September 11, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/904237",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/904237-zimmer-crazy-p-washington/"
+  },
+  {
+    "times": [],
+    "title": "Recondite",
+    "prices": [
+      {
+        "price": 20,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, September 12, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/904245",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/904245-recondite-washington/"
+  },
+  {
+    "times": [],
+    "title": "Melanie Martinez",
+    "prices": [
+      {
+        "price": 20,
+        "type": "advance"
+      }
+    ],
+    "date": "Sun, September 13, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/895507",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/895507-melanie-martinez-washington/"
+  },
+  {
+    "times": [],
+    "title": "EDX",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      }
+    ],
+    "date": "Sun, September 13, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/904147",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/904147-edx-washington/"
+  },
+  {
+    "times": [],
+    "title": "Jess Glynne",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Mon, September 14, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/886825",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/886825-jess-glynne-washington/"
+  },
+  {
+    "times": [],
+    "title": "Pearson Sound & Ron Morelli",
+    "prices": [
+      {
+        "price": 10,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, September 17, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/911901",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/911901-pearson-sound-ron-morelli-washington/"
+  },
+  {
+    "times": [],
+    "title": "Vacationer",
+    "prices": [
+      {
+        "price": 18,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, September 18, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/895513",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/895513-vacationer-washington/"
+  },
+  {
+    "times": [],
+    "title": "Gaiser (live)",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, September 18, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/911925",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/911925-gaiser-live-washington/"
+  },
+  {
+    "times": [],
+    "title": "Julio Bashmore",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, September 19, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/898619",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/898619-julio-bashmore-washington/"
+  },
+  {
+    "times": [],
+    "title": "Mikal Cronin",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Tue, September 22, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/853393",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/853393-mikal-cronin-washington/"
+  },
+  {
+    "times": [],
+    "title": "The Cribs",
+    "prices": [
+      {
+        "price": 20,
+        "type": "advance"
+      }
+    ],
+    "date": "Wed, September 23, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/905255",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/905255-cribs-washington/"
+  },
+  {
+    "times": [],
+    "title": "Sam Feldt",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, September 24, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/906743",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/906743-sam-feldt-washington/"
+  },
+  {
+    "times": [],
+    "title": "Marian Hill",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Fri, September 25, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/866335",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/866335-marian-hill-washington/"
+  },
+  {
+    "times": [],
+    "title": "Mynabirds",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, September 26, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/903419",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/903419-mynabirds-washington/"
+  },
+  {
+    "times": [],
+    "title": "CocoRosie",
+    "prices": [
+      {
+        "price": 25,
+        "type": "advance"
+      }
+    ],
+    "date": "Sun, September 27, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/901977",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/901977-cocorosie-washington/"
+  },
+  {
+    "times": [],
+    "title": "Mutemath",
+    "prices": [
+      {
+        "price": 22,
+        "type": "advance"
+      }
+    ],
+    "date": "Tue, September 29, 2015",
+    "minage": null,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/887101-mutemath-washington/"
+  },
+  {
+    "times": [],
+    "title": "Wolf Alice",
+    "prices": [
+      {
+        "price": 20,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, October  1, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/878051",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/878051-wolf-alice-washington/"
+  },
+  {
+    "times": [],
+    "title": "Bob Moses",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, October  1, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/888311",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/888311-bob-moses-washington/"
+  },
+  {
+    "times": [],
+    "title": "Tensnake",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, October  3, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/916259",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/916259-tensnake-washington/"
+  },
+  {
+    "times": [],
+    "title": "Seoul",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Mon, October  5, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/886619",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/886619-seoul-washington/"
+  },
+  {
+    "times": [],
+    "title": "Autechre",
+    "prices": [
+      {
+        "price": 20,
+        "type": "advance"
+      }
+    ],
+    "date": "Wed, October  7, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/858961",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/858961-autechre-washington/"
+  },
+  {
+    "times": [],
+    "title": "Lissie",
+    "prices": [
+      {
+        "price": 20,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, October 10, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/900081",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/900081-lissie-washington/"
+  },
+  {
+    "times": [],
+    "title": "Joywave",
+    "prices": [
+      {
+        "price": 15,
+        "type": "advance"
+      }
+    ],
+    "date": "Wed, October 14, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/889757",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/889757-joywave-washington/"
+  },
+  {
+    "times": [],
+    "title": "Lane 8",
+    "prices": [
+      {
+        "price": 12,
+        "type": "advance"
+      }
+    ],
+    "date": "Thu, October 15, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/859203",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/859203-lane-8-washington/"
+  },
+  {
+    "times": [],
+    "title": "Lido (at 9:30 Club)",
+    "prices": [
+      {
+        "price": 20,
+        "type": "advance"
+      }
+    ],
+    "date": "Tue, November  3, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/865733",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/865947-lido-9-30-club-washington/"
+  },
+  {
+    "times": [],
+    "title": "ODESZA (at 9:30 Club)",
+    "prices": [
+      {
+        "price": 25,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, November  7, 2015",
+    "minage": null,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/893085-odesza-9-30-club-washington/"
+  },
+  {
+    "times": [],
+    "title": "ODESZA (at 9:30 Club)",
+    "prices": [
+      {
+        "price": 25,
+        "type": "advance"
+      }
+    ],
+    "date": "Sat, November  7, 2015",
+    "minage": null,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/888137-odesza-9-30-club-washington/"
+  },
+  {
+    "times": [],
+    "title": "Slow Magic",
+    "prices": [],
+    "date": "Sat, November 21, 2015",
+    "minage": null,
+    "tickets": "https://www.ticketfly.com/purchase/event/909255?utm_medium=bks",
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "ustreet",
+    "url": "http://www.ustreetmusichall.com/event/918019-slow-magic-washington/"
+  }
+]

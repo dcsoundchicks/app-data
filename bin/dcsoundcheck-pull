@@ -4,21 +4,56 @@ var queue = require('queue-async');
 var flatten = require('lodash.flatten');
 var fs = require('fs');
 
+var _dc9 = require('../venues/dc9.js');
+var _930 = require('../venues/930.js');
+var _blackcat = require('../venues/blackcat.js');
+var _hamilton = require('../venues/hamilton.js');
+var _ustreet = require('../venues/ustreet.js');
+var _velvet = require('../venues/velvet.js');
+
 // require scrapers here
 var venues = [
-    require('../venues/dc9.js'),
+	{
+		scraper: _dc9,
+		filename: 'dc9'
+	},
+
+	{
+		scraper: _930,
+		filename: '930'
+	},
+
+	{	scraper: _blackcat,
+		filename: 'blackcat'
+	},
+
+	{	scraper: _hamilton,
+		filename: 'hamilton'
+	},
+
+	{	scraper: _ustreet,
+		filename: 'ustreet'
+	},
+
+	{	scraper: _velvet,
+		filename: 'velvet'
+	}
 ];
 
 var q = queue(1);
 
-// load all venues
+// load all venue scrapers
 venues.forEach(function(venue) {
-    q.defer(venue.load);
+    q.defer(venue.scraper.load);
 });
 
-// write to file in json-output
+// write venueData to file in json-output
 q.awaitAll(function(err, res) {
     if (err) throw err;
-    fs.writeFile('../json-output/dc9.json', JSON.stringify(flatten(res), null, 2));
+
+    res.forEach(function(venueData, i) {
+    	fs.writeFile('../json-output/' + venues[i].filename + '.json', 
+    		JSON.stringify(flatten(res[i]), null, 2));
+    })
     console.log('File successfully written! - Check your project directory for the output.json file');
 });

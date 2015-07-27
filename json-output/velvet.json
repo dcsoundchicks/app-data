@@ -1,0 +1,429 @@
+[
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438198200000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1438201800000
+      }
+    ],
+    "title": "The Shadow Girl Sound Collective",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Wednesday 29 Jul",
+    "minage": 18,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438284600000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1438288200000
+      }
+    ],
+    "title": "Jackie and The Treehorns",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Thursday 30 Jul",
+    "minage": 18,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438371000000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1438374600000
+      }
+    ],
+    "title": "Chute",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Friday 31 Jul",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438543800000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1438547400000
+      }
+    ],
+    "title": "Foe Destroyer",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Sunday 02 Aug",
+    "minage": 18,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438803000000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1438806600000
+      }
+    ],
+    "title": "The Lucky So & Sos",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Wednesday 05 Aug",
+    "minage": 18,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1438889400000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1438893000000
+      }
+    ],
+    "title": "Vasudeva",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Thursday 06 Aug",
+    "minage": 18,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1439062200000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1439065800000
+      }
+    ],
+    "title": "The Good Fight",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Saturday 08 Aug",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1439148600000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1439152200000
+      }
+    ],
+    "title": "Gramophonic",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Sunday 09 Aug",
+    "minage": 18,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1439407800000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1439411400000
+      }
+    ],
+    "title": "Social Station",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Wednesday 12 Aug",
+    "minage": 18,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1439580600000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1439584200000
+      }
+    ],
+    "title": "Ancient Warfare",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Friday 14 Aug",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440099000000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1440102600000
+      }
+    ],
+    "title": "Three Man Soul Machine",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Thursday 20 Aug",
+    "minage": 18,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440185400000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1440189000000
+      }
+    ],
+    "title": "The Duskwhales",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Friday 21 Aug",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440271800000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1440275400000
+      }
+    ],
+    "title": "The Audyssey",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Saturday 22 Aug",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1440790200000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1440793800000
+      }
+    ],
+    "title": "Sanford",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Friday 28 Aug",
+    "minage": 21,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1442172600000
+      },
+      {
+        "label": "show",
+        "formatted": "9pm",
+        "stamp": 1442178000000
+      }
+    ],
+    "title": "The Power of Positive Drinking: A Comedy Open Mic",
+    "prices": [],
+    "date": "Sunday 13 Sep",
+    "minage": null,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  },
+  {
+    "times": [
+      {
+        "label": "doors",
+        "formatted": "7:30pm",
+        "stamp": 1443295800000
+      },
+      {
+        "label": "show",
+        "formatted": "8:30pm",
+        "stamp": 1443299400000
+      }
+    ],
+    "title": "The Screws",
+    "prices": [
+      {
+        "type": "doors",
+        "price": 8
+      }
+    ],
+    "date": "Saturday 26 Sep",
+    "minage": 18,
+    "tickets": null,
+    "youtube": [],
+    "soundcloud": [],
+    "venue_id": "velvetlounge"
+  }
+]
